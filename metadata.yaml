@@ -1,10 +1,16 @@
 _repo: The-Ashtabula-Disaster_47359
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47359-h/images/cover.jpg
 creator:
   author:
     agent_name: Peet, Stephen D.
     gutenberg_agent_id: '44276'
     url: http://www.gutenberg.org/2009/agents/44276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47359#The-Ashtabula-Disaster
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
